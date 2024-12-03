@@ -116,9 +116,3 @@ const sequelize = new Sequelize('nome_do_banco', 'usuario', 'senha', {
 });
 module.exports = sequelize;
 ```
-
----
-
-## Autor
-
-Projeto desenvolvido como exemplo para estudos de **Node.js**, **Express** e **Sequelize**.
